@@ -1,3 +1,5 @@
+#new line
+
 #Monte Hall problem
 #not changing your mind has lower probabilty of success
 B <- 10000
